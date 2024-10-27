@@ -1,0 +1,6 @@
+Task 5
+
+New Task to our ATM system
+1- add new option to show all user transactions
+2- restrict ordinary user from adding or removing other users
+3- split the user transactions into two collection the first have all the managerial operations and the other has all the financial operations
