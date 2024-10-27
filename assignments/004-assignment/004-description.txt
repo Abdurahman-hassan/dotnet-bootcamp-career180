@@ -1,0 +1,26 @@
+Task4
+
+1.Create a collection OperationHistory (make the type of your choice) to store the history of all operations made by all users [login, logout, user creation, money transfer, all transactions].
+
+2. Create a new class TransactionInfo that stores data about any user Transaction. This Collection is the building block for the collection described in requirement (1).
+It should include:
+•TransactionId   
+•UserId   
+•OperationId   
+•OperationAmount   
+•OperationDateTime   
+•UserBalanceBeforeOperation   
+•UserBalanceAfterOperation   
+•ReceiverId (nullable)
+•IsCompleteTransfer (for transfer processes only)
+
+3.Create a collection for Users, to store users information. each user should have:
+•    UserId   
+•    UserName   
+•    BirthDate   
+•    Email   
+•    UserCategory [VIP, or Ordinary]
+
+4.Add a method/function AddMoneyTransferOperation(ReceiverName, Amount) to perform money transfers from one user account to another.
+
+5.Add function AddMoneyReceiveOperation to a user to accept an amount transferred from another user to his own account
