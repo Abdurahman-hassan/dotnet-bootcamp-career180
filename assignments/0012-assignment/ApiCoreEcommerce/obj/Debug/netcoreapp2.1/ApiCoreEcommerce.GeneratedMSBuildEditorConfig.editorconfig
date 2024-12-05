@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ApiCoreEcommerce
+build_property.ProjectDir = /Users/abdelrahman/Downloads/ApiAspCoreEcommerce-master/ApiCoreEcommerce/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
